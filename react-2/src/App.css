@@ -1,0 +1,11 @@
+.list{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    img{
+        height: 250px;
+        object-fit: contain;
+    }
+}

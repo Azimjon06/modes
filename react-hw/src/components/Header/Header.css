@@ -1,0 +1,33 @@
+*{
+    list-style-type: none;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:  #014E56;
+    ;
+}
+.nav ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav li{
+    margin-left: 30px ;
+   
+}
+.nav a{
+list-style-type: none;
+text-decoration: none;
+ color: #fff;
+}
+.nav li:nth-child(1){
+    font-size: 30px;
+    
+}
+button{
+    background: none;
+    border: 2px white solid;
+    border-radius: 20px;
+}

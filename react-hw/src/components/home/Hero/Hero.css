@@ -1,0 +1,28 @@
+.hero__item{
+    padding: 50px 30px 50px 30px ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #014E56 ;
+}
+.hero__item h1{
+    font-size: 100px;
+    width:500px ;
+    color: white;
+    span{
+        color: red;
+    }
+   
+
+}
+.text hr{
+    width: 100px;
+    height: 5px;
+    background-color: #79C8C7;
+    ;
+}
+.text  p{
+    font-size: 18px;
+    width: 450px;
+    color: #fff;
+}

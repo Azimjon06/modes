@@ -1,0 +1,28 @@
+*{
+    list-style-type: none;
+}
+.footer{
+    padding: 0 62px;
+    background-color:  #014E56;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    h1{
+        color: white;
+        font-size: 30px;
+    }
+    .list__item ul{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+   
+}
+.footer a {
+    list-style-type: none;
+    text-decoration: none;
+    color: #fff;
+}
+li {
+   color: white;
+} 
